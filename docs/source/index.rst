@@ -6,3 +6,4 @@ Bienvenue sur la documentation PyBH
    :caption: Table des Matières:
 
    Survival_Analysis/index
+   Metrics/index
